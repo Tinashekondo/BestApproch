@@ -2440,7 +2440,7 @@
         'data-prefix': prefix,
         'data-icon': iconName,
         'class': attrClass,
-        'role': 'img',
+        'role': 'images',
         'xmlns': 'http://www.w3.org/2000/svg',
         'viewBox': "0 0 ".concat(width, " ").concat(height)
       })

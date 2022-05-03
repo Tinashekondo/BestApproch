@@ -48,7 +48,7 @@
   display: none;
   -webkit-backface-visibility: hidden;
 }
-.flexslider .slides img {
+.flexslider .slides images {
   width: 100%;
   display: block;
 }
@@ -89,7 +89,7 @@ html[xmlns] .flexslider .slides {
 .flexslider .slides {
   zoom: 1;
 }
-.flexslider .slides img {
+.flexslider .slides images {
   height: auto;
   -moz-user-select: none;
 }
@@ -245,7 +245,7 @@ html[xmlns] .flexslider .slides {
   float: left;
   margin: 0;
 }
-.flex-control-thumbs img {
+.flex-control-thumbs images {
   width: 100%;
   height: auto;
   display: block;
@@ -258,7 +258,7 @@ html[xmlns] .flexslider .slides {
   -o-transition: all 1s ease;
   transition: all 1s ease;
 }
-.flex-control-thumbs img:hover {
+.flex-control-thumbs images:hover {
   opacity: 1;
 }
 .flex-control-thumbs .flex-active {
