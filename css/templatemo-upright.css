@@ -73,8 +73,8 @@ hr { border-top: 4px solid #CCC; }
 }
 
 .tm-section-wrap {
-	width: calc(100% - 750px);
-	margin-left: 750px;
+	width: calc(100% - 350px);
+	margin-left: 350px;
 	margin-right: 0;
 	position: relative;
 }
@@ -657,8 +657,8 @@ select:not([multiple]) {
 
 @media (max-width: 1400px) {
 	.tm-section-wrap {
-		width: calc(100% - 630px);
-		margin-left: 630px;
+		width: calc(100% - 430px);
+		margin-left: 330px;
 	}
 }
 
@@ -711,8 +711,8 @@ select:not([multiple]) {
 	}
 
 	.tm-section-wrap {
-		width: calc(100% - 280px);
-		margin-left: 280px;		
+		width: calc(100% - 180px);
+		margin-left: 180px;		
 	}
 
 	.tm-section {
