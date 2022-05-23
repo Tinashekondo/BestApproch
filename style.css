@@ -164,7 +164,7 @@ sup {
  * Remove the border on images inside links in IE 10.
  */
 
-img {
+images {
 	border-style: none;
 }
 
@@ -486,7 +486,7 @@ dd {
 	margin: 0 1.5em 1.5em;
 }
 
-img {
+images {
 	height: auto;
 	/* Make sure images are scaled correctly. */
 	max-width: 100%;
@@ -788,7 +788,7 @@ ul > li {
 	margin-bottom: -8px;
 }
 
-.banner img {
+.banner images {
 	width: 100%;
 }
 
@@ -963,9 +963,9 @@ ul > li {
 	margin-bottom: 30px;
 }
 
-.learn-courses .box-wrap .img-wrap, 
-.course-listing-page .grid-item .img-wrap, 
-.recent-course-single .grid-item .img-wrap{
+.learn-courses .box-wrap .images-wrap, 
+.course-listing-page .grid-item .images-wrap, 
+.recent-course-single .grid-item .images-wrap{
 	margin-bottom: -7px;
 }
 
@@ -1251,22 +1251,22 @@ ul > li {
 	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
 
-.gallery-img-wrap {
+.gallery-images-wrap {
 	height: 200px;
 	width: 341px;
 	box-sizing: content-box;
 	overflow: hidden;
 }
 
-.gallery-section2 .gallery-img-wrap {
+.gallery-section2 .gallery-images-wrap {
 	width: 337px;
 }
 
-.gallery-img-wrap a img {
+.gallery-images-wrap a images {
     -webkit-filter: brightness(100%);
 }
 
-.gallery-img-wrap a img:hover {
+.gallery-images-wrap a images:hover {
     -webkit-filter: brightness(40%);
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -1289,7 +1289,7 @@ ul > li {
 	position: relative;
 }
 
-.event-wrap .img-wrap {
+.event-wrap .images-wrap {
 	width: 73.7%;
 }
 
@@ -1503,7 +1503,7 @@ ul > li {
 	margin-bottom: 1.25em;
 }
 
-.footer-first-section .recent-course-wrap img {
+.footer-first-section .recent-course-wrap images {
 	border: none;
 	border-radius: 5px;
 	height: 60px;
@@ -1651,11 +1651,11 @@ ul > li {
 	box-sizing: border-box;
 }
 
-.grid-box-wrap .grid-img {
+.grid-box-wrap .grid-images {
 	margin-bottom: -6.5px;
 }
 
-.grid-box-wrap .grid-img img {
+.grid-box-wrap .grid-images images {
 	border-top-right-radius: 5px; 
 	border-top-left-radius: 5px; 
 }
@@ -1799,12 +1799,12 @@ aside .news-letter hr {
 	margin-bottom: 1.25em;
 }
 
-.page-content .post-wrap .img-wrap {
+.page-content .post-wrap .images-wrap {
 	width: 70px;
 	object-fit: fill;
 }
 
-.page-content .post-wrap .img-wrap img{
+.page-content .post-wrap .images-wrap images{
 	height: 90px;
 }
 
@@ -1859,7 +1859,7 @@ aside .news-letter hr {
 	margin-bottom: 0;
 }
 
-.page-content .courses-wrap img {
+.page-content .courses-wrap images {
 	border-radius: 5px;
 }
 
@@ -1950,7 +1950,7 @@ aside .news-letter hr {
 	display: none;
 }
 
-.page-content .page-article img {
+.page-content .page-article images {
 	margin-top: 3.75em;
 	margin-bottom: 3.75em;
 }
@@ -2389,7 +2389,7 @@ aside .news-letter hr {
   	box-shadow:         0px 0px 5px 4px #e1e1e1;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
 }
 
-.team-members .developer-wrap img {
+.team-members .developer-wrap images {
 	width: 170px;
 	height: 170px;	
 	/*border-radius: 50%;*/
@@ -2651,7 +2651,7 @@ aside .reserve-course input[type="email"],
 	border: none;
 }
 
-.customer-review .row .img {
+.customer-review .row .images {
 	width: 171px;
 	height: auto;
 }
@@ -2972,7 +2972,7 @@ RESPONSIVE STYLESHEET
 		margin-bottom: 0;
 	}
 
-	.event-wrap .img-wrap {
+	.event-wrap .images-wrap {
 		width: 420px;
 	}
 
@@ -3345,7 +3345,7 @@ RESPONSIVE STYLESHEET
 	}
 
 	.events-section .event-wrap,
-	.events-section .event-wrap .img-wrap 
+	.events-section .event-wrap .images-wrap 
 	{
 		width: 280px;
 	}
@@ -3497,7 +3497,7 @@ RESPONSIVE STYLESHEET
 	padding: 34px 65px 45px 65px;
 }
 
-.what-other-say .container .customer-item .customer-img, 
+.what-other-say .container .customer-item .customer-images, 
 .what-other-say .container .customer-item .rateYo{
 	text-align: center;
 	margin-left: auto;
@@ -3508,7 +3508,7 @@ RESPONSIVE STYLESHEET
 	margin-top: 10px;
 }
 
-.what-other-say .container .customer-item .customer-img {
+.what-other-say .container .customer-item .customer-images {
 	width: 90px;
 	margin-bottom: 14px;
 }
